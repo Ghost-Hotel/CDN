@@ -1,0 +1,26 @@
+[0629/202605.757:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 35
+[0629/224224.180:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 93
+[0629/224227.478:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 95
+[0629/224231.179:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 97
+[0629/224232.580:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 99
+[0629/224233.722:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 101
+[0629/224234.833:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 103
+[0629/224433.640:INFO:CONSOLE(0)] "Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22", source: https://discordapp.com/channels/421426524932276224/435204643543318528 (0)
+[0629/224531.894:WARNING:spdy_session.cc(2861)] Received WINDOW_UPDATE for invalid stream 121
+[0629/224532.295:INFO:CONSOLE(34)] "[FAST CONNECT] wss://gateway.discord.gg/?encoding=json&v=6&compress=zlib-stream, encoding: json, version: 6", source: https://discordapp.com/channels/@me (34)
+[0629/224534.163:INFO:CONSOLE(83)] "[BUILD INFO] Release Channel: stable, Build Number: 17872, Version Hash: 78f61c3b092d7688723815a40b0c359b6e3bc782", source: https://discordapp.com/assets/ccbcd992f699ea67ba85.js (83)
+[0629/224534.222:INFO:CONSOLE(83)] "[FAST CONNECT] connected in 1918ms", source: https://discordapp.com/assets/ccbcd992f699ea67ba85.js (83)
+[0629/224539.579:INFO:CONSOLE(83)] "%c[GatewayDiscovery]", source: https://discordapp.com/assets/ccbcd992f699ea67ba85.js (83)
+[0629/224540.041:INFO:CONSOLE(83)] "%c[GatewaySocket]", source: https://discordapp.com/assets/ccbcd992f699ea67ba85.js (83)
+[0629/224540.043:INFO:CONSOLE(83)] "%c[GatewaySocket]", source: https://discordapp.com/assets/ccbcd992f699ea67ba85.js (83)
+[0629/224540.045:INFO:CONSOLE(83)] "%c[GatewaySocket]", source: https://discordapp.com/assets/ccbcd992f699ea67ba85.js (83)
+[0629/224540.069:INFO:CONSOLE(83)] "%c[GatewaySocket]", source: https://discordapp.com/assets/ccbcd992f699ea67ba85.js (83)
+[0629/224540.651:INFO:CONSOLE(83)] "%c[GatewaySocket]", source: https://discordapp.com/assets/ccbcd992f699ea67ba85.js (83)
+[0629/224540.717:WARNING:http_cache_transaction.cc(2255)] Multiple or malformed validation headers found.
+[0629/224540.731:INFO:CONSOLE(83)] "%c[Spotify]", source: https://discordapp.com/assets/ccbcd992f699ea67ba85.js (83)
+[0629/224540.732:INFO:CONSOLE(83)] "%c[Spotify]", source: https://discordapp.com/assets/ccbcd992f699ea67ba85.js (83)
+[0629/224540.840:INFO:CONSOLE(83)] "[ReadStateStore] deleting 11 read states.", source: https://discordapp.com/assets/ccbcd992f699ea67ba85.js (83)
+[0629/224544.566:INFO:CONSOLE(83)] "%c[Spotify]", source: https://discordapp.com/assets/ccbcd992f699ea67ba85.js (83)
+[0629/224545.359:INFO:CONSOLE(83)] "%c[Spotify]", source: https://discordapp.com/assets/ccbcd992f699ea67ba85.js (83)
+[0629/224545.638:INFO:CONSOLE(83)] "%c[Spotify]", source: https://discordapp.com/assets/ccbcd992f699ea67ba85.js (83)
+[0629/224545.645:INFO:CONSOLE(83)] "%c[Spotify]", source: https://discordapp.com/assets/ccbcd992f699ea67ba85.js (83)
